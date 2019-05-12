@@ -38,7 +38,7 @@ This will get and install all the required dependencies for React.
 
 Next, we need to start up a server for the app to run on:
 
-```sh
+```shs
 npm start
 ```
 
